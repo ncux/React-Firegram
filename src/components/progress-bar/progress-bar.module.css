@@ -1,0 +1,13 @@
+
+:root{
+    --primary: #efb6b2;
+    --secondary: #4e4e4e;
+    --error: #ff4a4a;
+}
+
+/* progress bar styles */
+.progressBar {
+    height: 5px;
+    background: var(--primary);
+    margin-top: 20px;
+}
